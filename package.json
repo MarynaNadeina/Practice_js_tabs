@@ -1,0 +1,22 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarynaNadeina/Practice_js_tabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarynaNadeina/Practice_js_tabs/issues"
+  },
+  "homepage": "https://github.com/MarynaNadeina/Practice_js_tabs#readme",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
